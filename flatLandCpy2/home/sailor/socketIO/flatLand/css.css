@@ -1,0 +1,11 @@
+.clickBox{
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+}
+
+#userList{
+	position:absolute;
+	top:0px;
+	right:30px;
+}
